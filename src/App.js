@@ -6,6 +6,7 @@ import SignUpForm from "./SignupForm";
 import LoginPage from "./Loginpage";
 
 //my first commit in App
+// 2nd commit
 function App() {
   return (
     <div className="App">
